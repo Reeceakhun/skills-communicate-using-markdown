@@ -5,3 +5,6 @@
 #### Forth Header
 ##### Fifth Header
 ###### Sixth Header
+```Linux
+sudo chmod 755 /tmp/my
+```
