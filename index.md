@@ -8,3 +8,6 @@
 ```Linux
 sudo chmod 755 /tmp/my
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
